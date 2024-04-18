@@ -10,5 +10,9 @@
   - Relatório de Acompanhamento de Reclamações CSI
 
   Projeto para elaboração de um relatório para acompanhamento de reclamações da empresa CSI Filtros. Utilizando o framework CRISP-DM e as ferramentas PowerBI e PowerPoint para desenvolvimento do dashboard, o trabalho tinha como objetivo fornecer insights para a empresa, em relação a quais os produtos e clientes que apresentavam mais reclamação.
+
+  - Relatório de Acompanhamento de Chamados
+
+  Projeto elaborado para acompanhamento de chamados de plataforma de atendimento Milvus para a empresa Ardo Construtora. Foram utilizados os conceitos do CRISP-DM, PowerBI e conexões via API para puxar as informações relevantes direto do sistema.O objetivo do projeto foi de trazer uma visão do andamento dos chamados bem como acompanhar as métricas de atendimento SLA (KPI).
     
     
