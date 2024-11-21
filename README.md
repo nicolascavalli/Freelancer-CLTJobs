@@ -22,5 +22,10 @@
   - Relatório de Acompanhamento de Chamados
 
   Projeto elaborado para acompanhamento de chamados de plataforma de atendimento Milvus para a empresa Ardo Construtora. Foram utilizados os conceitos do CRISP-DM, PowerBI e conexões via API para puxar as informações relevantes direto do sistema.O objetivo do projeto foi de trazer uma visão do andamento dos chamados bem como acompanhar as métricas de atendimento SLA (KPI).
-    
+
+  - Análise do Programa Nacional de Monitoramneto de Biodiversidade
+
+  Análise exploratória da base de dados do programa de monitoramento de biodiversidade em Parques Nacionais. A base de dados foi retirada do Portal de Dados Abertos.
+
+
     
